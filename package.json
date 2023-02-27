@@ -1,0 +1,19 @@
+{
+  "name": "WebServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "csv-stringify": "^6.2.3",
+    "htmlparser2": "^8.0.1",
+    "jsdom": "^19.0.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
